@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "cname": "dee",
+      "cphone": "6361707669",
+      "cemail": "jdeeksha031@gmail.com",
+      "id": 2
+    },
+    {
+      "cphone": "2345",
+      "cname": "ss",
+      "cemail": "24567",
+      "id": 3
+    },
+    {
+      "cphone": "5362388831",
+      "cname": "harry",
+      "cemail": "abc@gmail.com",
+      "id": 4
+    },
+    {
+      "cphone": "05362388831",
+      "cname": "sam",
+      "cemail": "abc@gmail.com",
+      "id": 5
+    },
+    {
+      "cphone": "6361707663",
+      "cname": "Deeksha j",
+      "cemail": "jdeeksha031@gmail.com",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
